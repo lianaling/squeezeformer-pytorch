@@ -1,0 +1,3 @@
+files:
+  train_data: ..\data\LibriSpeech\train-clean-100
+  dev_data: ..\data\LibriSpeech\dev-clean

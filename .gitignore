@@ -1,3 +1,6 @@
+data/LibriSpeech/
+squeezeformer-venv/
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,intellij,pycharm+iml,pycharm,vscode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,intellij,pycharm+iml,pycharm,vscode
 
